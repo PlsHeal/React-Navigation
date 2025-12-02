@@ -54,7 +54,8 @@ npm run web
 \`\`\`
 
 ## Screenshots
-![screenshot](assets/screen.png)
+![screenshot1](assets/screen1.png)
+![screenshot2](assets/screen2.png)
 
 ## Challenges Faced
 I need to make the App.js into the external for it to detect the application main file
